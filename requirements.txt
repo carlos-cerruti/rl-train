@@ -1,0 +1,38 @@
+ipython
+jupyterlab
+loguru
+matplotlib
+mkdocs
+notebook
+numpy
+pandas
+pip
+pytest
+python-dotenv
+ruff
+scikit-learn
+tqdm
+typer
+# ML and Optimization
+lightgbm
+optuna
+xgboost
+# Financial Data
+financedatabase
+yfinance
+MetaTrader5
+# Technical Indicators
+talib
+ta
+# Time Series
+statsmodels
+# Visualization
+plotly
+seaborn
+# Data Processing
+parquet
+pyarrow
+# Configuration
+omegaconf
+hydra-core
+-e .

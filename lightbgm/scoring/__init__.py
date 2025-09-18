@@ -1,0 +1,1 @@
+"""Scoring module for real-time setup evaluation."""
